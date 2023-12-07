@@ -128,7 +128,7 @@ class Group:
         # Calc group height
         task_count = len(self.tasks)
         self.box_height = (
-            (20 * task_count)
+            (70 * task_count)
             + (painter.additional_height_for_milestone * milestone_count)
             + (5 * task_count)
             + (2 * (task_count - 1))

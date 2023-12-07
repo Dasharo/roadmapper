@@ -504,7 +504,7 @@ class Task:
                     if bar_start_x_pos == 0:
                         bar_start_x_pos = self.box_x
 
-                self.box_height = 20
+                self.box_height = 70
 
                 box_coordinates = [
                     int(self.box_x),
