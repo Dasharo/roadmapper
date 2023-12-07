@@ -345,7 +345,7 @@ class TimelineItem:
             self.box_y + self.box_height,
             x_pos,
             painter.next_y_pos + 10,
-            "#e6e6e6",
+            "#f5f5f5",
             50,
             1,
             "solid",
