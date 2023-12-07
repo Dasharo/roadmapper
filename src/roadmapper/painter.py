@@ -53,7 +53,7 @@ class Painter:
 
     additional_height_for_milestone = 15
 
-    timeline_height = 20
+    timeline_height = 50
 
     # Colour scheme
     title_font: str
